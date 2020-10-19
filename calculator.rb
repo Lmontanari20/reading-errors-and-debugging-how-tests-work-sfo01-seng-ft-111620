@@ -3,5 +3,5 @@ first_number
 second_number
 sum
 difference
-quotent
+quotient
 product
